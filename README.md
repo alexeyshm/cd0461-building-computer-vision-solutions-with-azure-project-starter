@@ -4,4 +4,4 @@ This is the project starter repo for Udacity's _Building Computer Vision Solutio
 
 ## License
 
-[License](LICENSE.txt)
+[License](LICEN[step_1](starter%2Fsample_submission%2Fstep_1)SE.txt)

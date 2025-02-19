@@ -1,0 +1,6 @@
+Some of the requirements based on older version of Azure services, that were deprecated.
+For instance interaction with API for documents recognition is changes in compare with, how it was described in the course. So are web interfaces for labeling etc.
+There were multiple errors, when I attempted to use code as was described in the course.
+Azure Video Indexer doesn't support face recognition in videos anymore, so I had to skip this part of the project.
+Provision of service consumption report is not possible, as cloud labs gets deleted after certain period of time.
+
